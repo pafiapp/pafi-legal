@@ -60,10 +60,9 @@ This Application is **not intended for children under 13**. If such data is disc
 
 ## 🗑️ Data Retention & Deletion
 
-We retain user data as long as the Application is installed and in use. You may request full data deletion at:  
+Uninstalling the Application does not automatically delete your personal data stored on our servers.
+If you wish to request permanent deletion of your account and associated data, please contact us at:  
 📧 **support@pafiapp.com**
-
-You can also delete your data by uninstalling the Application.
 
 ---
 
